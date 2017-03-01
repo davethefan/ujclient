@@ -1,0 +1,8 @@
+# login page
+https://authenticate.gateway.gov.uk/sidp/SignIn.ashx?gwv=1.0&gwrealm=urn%3aTransformingLabourMarketServices&gwtheme=directgov&gwcategory=Ind
+
+#item IDs
+Login ID: ctl00$fixedContent$Username$uid$UIDSingleField
+Password ID: ctl00_fixedContent_Username_passwordLabel
+Login Button: ctl00$fixedContent$Username$loginButton
+
