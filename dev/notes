@@ -1,3 +1,7 @@
+A searchable index of item IDs for specific sections of the pages to speed
+up writing beautifulsoup functions, and locating the right section of page source data
+
+
 # login page
 https://authenticate.gateway.gov.uk/sidp/SignIn.ashx?gwv=1.0&gwrealm=urn%3aTransformingLabourMarketServices&gwtheme=directgov&gwcategory=Ind
 
