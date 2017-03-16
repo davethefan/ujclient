@@ -1,8 +1,9 @@
 import requests
+import sys
 
 payload = {
-	'username': 'username',
-	'password': 'password'
+	'ctl00_fixedContent_Username_uid_UIDSingleField': 'username',
+	'ctl00_fixedContent_Username_pw': 'password'
 }
 
 with requests.Session() as c:
